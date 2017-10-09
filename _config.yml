@@ -7,16 +7,16 @@ permalink:           pretty
 # Setup
 title:               roboTickle
 tagline:             'Cluster Computing | Machine Learning'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Research <a href="http://robotickle.com" target="_blank">kandekar</a>. sandeep kandekar <a href="https://twitter.com/sandeepkandekar" target="_blank">@skan</a>.'
 url:                 http://robotickle.com
 baseurl:             '/lanyon'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Sandeep Kandekar
   url:               https://twitter.com/sandeepkandekar
-  email:             markdotto@gmail.com
+  email:             sandeep.kandekar@gmail.com
 
 # Custom vars
 version:             1.0.0
