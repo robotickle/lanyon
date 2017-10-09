@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               roboTickle
 tagline:             'Cluster Computing | Machine Learning'
-description:         'Complete Notes on cluster computing <a href="https://twitter.com/sandeepkandekar></a>.'
+description:         'Complete Notes on cluster computing <a href="https://twitter.com/sandeepkandekar>some</a>.'
 url:                 http://robotickle.com
 baseurl:             '/lanyon/'
 paginate:            5
